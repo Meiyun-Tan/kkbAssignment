@@ -1,0 +1,21 @@
+Q1:MVC框架指的是什么?
+A1:
+MVC 是 Model-View-Controller 的缩写。Model（模型） - View（视图） - Controller（控制器）是一个用于实现图形用户界面（GUI）程序的软件架构模式。web开发的MVC被分成三个核心部件：
+Model：与数据库相关的模型层；
+Views：网页的地址，以及渲染网页等；
+Controller：访问网页地址后，读取页面数据，调用业务逻辑.
+
+Q2:基于Python的可视化技术都有哪些，你使用过哪些?
+A2:
+Python的可视化工具有：
+①matplotlib
+②seaborn
+③pandas也可以通过df/sr.plot()方法绘制图表
+④networkx
+⑤bokeh
+⑥wordcloud进行词云展示 
+⑦graphviz进行决策树可视化
+⑧echarts、pyecharts
+⑨HTML，如：Flask、Dash
+
+其中前3个可视化工具我用的比较多。4~7用过几次。8没用过，9只用flask创建过hello word的可视化页面。
