@@ -18,7 +18,15 @@
 + Action1:[核心班lesson03_Action01_文本抄袭自动检测分析.ipynb](./核心班lesson03_Action01_文本抄袭自动检测分析.ipynb)
 
 ## 4. Week04: ALS算法与推荐系统
-+ push date: 
-+ Thinkings: 
++ push date:2020/9/15 
++ Thinkings:[HX_BI04_Lesson04_Thingking.md](./HX_BI04_Lesson04_Thingking.md)
++ Action1:[HX04_Lesson04_Acion01_MovieLensRatingPredict_pyspark.ipynb](./HX04_Lesson04_Acion01_MovieLensRatingPredict_pyspark.ipynb)
++ Action2:[HX04_Lesson04_Action2_PaperReading.md](./HX04_Lesson04_Action2_PaperReading.md)
++ Action3:[HX04_Lesson04_Action03_SyntaxTree.ipynb](./HX04_Lesson04_Action03_SyntaxTree.ipynb)
+
+
+## 5. Week05: 
++ push date:
++ Thinkings:
 + Action1:
 
