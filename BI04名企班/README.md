@@ -26,7 +26,17 @@
 
 ## 4. Week04: SVD矩阵分解与基于内容的推荐
 
++ push date: 20200918
++ Thinking: [MQ_BI04_Lesson04_Thingking.md](./MQ_BI04_Lesson04_Thingking.md)
++ Action1: [MQ_BI04_lesson04_Action01_ImageSVD.ipynb](./MQ_BI04_lesson04_Action01_ImageSVD.ipynb)
++ Action2:[MQ_BI04_lesson04_Action02_MovielensSVD_2.ipynb](./MQ_BI04_lesson04_Action02_MovielensSVD_2.ipynb)
+	+ images: 分解前：origin_imge.jpg、分解重建：new_img.jpg
++ Action3: [MQ_BI04_lesson04_Action03_Word2vec.ipynb](./MQ_BI04_lesson04_Action03_Word2vec.ipynb)
+
+
+
+## 5. Week05: CTR预估算法与基于流行度的推荐
+
 + push date: 
 + Thinking: 
 + Action1: 
-+ 
