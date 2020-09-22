@@ -1,32 +1,40 @@
-# 名企BI04期 + 核心课 + 谭美云
-
-## 1. week01: 商业智能与推荐系统
-+ push date: 2020/8/20
-+ Thinkings: [BI04核心提升Lesson01_Thinkings.md](./BI04核心提升Lesson01_Thinkings.md)
-+ Action1: [Lesson01_Action1使用CART对MNIST分类.ipynb](./Lesson01_Action1使用CART对MNIST分类.ipynb)
+# 名企BI04期 + 名企课 + 谭美云
 
 
-## 2. week02: 挖掘数据中的关联规则
+
+
+
+## 4. Week04: SVD矩阵分解与基于内容的推荐
+
++ push date: 2020/9/22
++ Thinking: [HX_BI04_Lesson05_Thingking.md](./HX_BI04_Lesson05_Thingking.md)
++ Action1: [HX04_Lesson05_Action1_LibFMRecommend.md](./HX04_Lesson05_Action1_LibFMRecommend.md)
+  + 相关拆分数据集的代码文件:[HX04_Lesson04_Action1_split_ratings_dataset.ipynb](./HX04_Lesson04_Action1_split_ratings_dataset.ipynb)
++ Action2:[HX04_Lesson05_Action2_DeepFM.ipynb](./HX04_Lesson05_Action2_DeepFM.ipynb)
++ Action3:[HX04_Lesson05_Action3_knn.ipynb](./HX04_Lesson05_Action3_knn.ipynb)
+
+## 3. Week03: 推荐系统眼中的你-用户画像
+
++ push date: 2020/9/11
++ Thinking: [MQ_BI04_Lesson03_Thingking.md](./MQ_BI04_Lesson03_Thingking.md)
++ Action1: [MQ_BI04_lesson03_Action01_delicious_recommend.ipynb](./MQ_BI04_lesson03_Action01_delicious_recommend.ipynb)
++ Action2: [MQ_BI04_lesson03_Action02_Titanic.ipynb](./MQ_BI04_lesson03_Action02_Titanic.ipynb)
+
+
+
+## 2. week02: 数据可视化及实战
+
 + push date: 2020/8/29
-+ Thinkings: [BI04核心提升Lesson02_Thinkings.md](./BI04核心提升Lesson02_Thinkings.md)
-+ Action1: [lesson02_Action01_market_apriori.ipynb](./lesson02_Action01_market_apriori.ipynb)
++ Thinking: [名企BI04_Lesson01_Thingking.md](./名企BI04_Lesson01_Thingking.md)
++ Action1: [名企BI04Lesson01_Action1_10开平方.ipynb](./名企BI04Lesson01_Action1_10开平方.ipynb)
++ Action2: [名企BI04Lesson01_Action2_汽车投诉信息采集.ipynb](./名企BI04Lesson01_Action2_汽车投诉信息采集.ipynb)
 
 
-## 3. Week03: 常用机器学习模型
-+ push date: 2020/9/5
-+ Thinkings:  [BI04核心提升Lesson03_Thinkings.md](./BI04核心提升Lesson03_Thinkings.md)
-+ Action1:[核心班lesson03_Action01_文本抄袭自动检测分析.ipynb](./核心班lesson03_Action01_文本抄袭自动检测分析.ipynb)
 
-## 4. Week04: ALS算法与推荐系统
-+ push date:2020/9/15 
-+ Thinkings:[HX_BI04_Lesson04_Thingking.md](./HX_BI04_Lesson04_Thingking.md)
-+ Action1:[HX04_Lesson04_Acion01_MovieLensRatingPredict_pyspark.ipynb](./HX04_Lesson04_Acion01_MovieLensRatingPredict_pyspark.ipynb)
-+ Action2:[HX04_Lesson04_Action2_PaperReading.md](./HX04_Lesson04_Action2_PaperReading.md)
-+ Action3:[HX04_Lesson04_Action03_SyntaxTree.ipynb](./HX04_Lesson04_Action03_SyntaxTree.ipynb)
+## 1. week01: 数据采集与实战
++ push date: 2020/8/22
++ Thinking: [名企BI04_Lesson01_Thingking.md](./名企BI04_Lesson01_Thingking.md)
++ Action1: [名企BI04Lesson01_Action1_10开平方.ipynb](./名企BI04Lesson01_Action1_10开平方.ipynb)
++ Action2: [名企BI04Lesson01_Action2_汽车投诉信息采集.ipynb](./名企BI04Lesson01_Action2_汽车投诉信息采集.ipynb)
 
-
-## 5. Week05: 
-+ push date:
-+ Thinkings:
-+ Action1:
-
++ 
