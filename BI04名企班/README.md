@@ -1,6 +1,14 @@
 # 名企BI04期 + 名企课 + 谭美云
 
+---
 
+## 6. Week06: 近似最近邻查找与YouTube推荐系统
+
++ push date: 2020/10/02
++ Thinking: [MQBI04_Lesson06_Thinking.md](./MQBI04_Lesson06_Thinking.md)
++ Action1: [MQBI04_Lesson06_Action1_MinHashLSHForest.ipynb](./MQBI04_Lesson06_Action1_MinHashLSHForest.ipynb)
+
+---
 
 ## 5. Week05: CTR预估算法与基于流行度的推荐
 

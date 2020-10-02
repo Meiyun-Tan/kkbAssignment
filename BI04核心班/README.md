@@ -2,6 +2,12 @@
 
 
 
+## 5. Week05: 预测全家桶与机器学习神器
+
++ push date: 2020/09/29
++ Thinking:[HXBI04_Lesson06_Thinking.md](./HXBI04_Lesson06_Thinking.md)
++ Action1: [HX04_Leeson06_Action01_voice_recognize_v2.ipynb](./HX04_Leeson06_Action01_voice_recognize_v2.ipynb)
+
 
 
 ## 4. Week04: SVD矩阵分解与基于内容的推荐
