@@ -2,6 +2,16 @@
 
 ---
 
+# 7. 深度卷积网络与实战
+
++ push date: 2020/10/17
++ Thinking: [MQBI04_Lesson07_Thinking.md](./MQBI04_Lesson07_Thinking.md)
++ Action1: [MQBI04_Action1_Cifar10GoogleNet_9511.ipynb](./MQBI04_Action1_Cifar10GoogleNet_9511.ipynb)
+  + 保存的模型:[cifar10_googlenet_1.pt](./cifar10_googlenet_1.pt)
+
+
+---
+
 ## 6. Week06: 近似最近邻查找与YouTube推荐系统
 
 + push date: 2020/10/02
@@ -43,9 +53,8 @@
 ## 2. week02: 数据可视化及实战
 
 + push date: 2020/8/29
-+ Thinking: [名企BI04_Lesson01_Thingking.md](./名企BI04_Lesson01_Thingking.md)
-+ Action1: [名企BI04Lesson01_Action1_10开平方.ipynb](./名企BI04Lesson01_Action1_10开平方.ipynb)
-+ Action2: [名企BI04Lesson01_Action2_汽车投诉信息采集.ipynb](./名企BI04Lesson01_Action2_汽车投诉信息采集.ipynb)
++ Thinking: [名企BI04_Lesson02_Thingking.txt](./名企BI04_Lesson02_Thingking.txt)
++ Action1: [名企BI04lesson02_Action1_购物篮可视化.ipynb](./名企BI04lesson02_Action1_购物篮可视化.ipynb)
 
 ---
 
@@ -55,8 +64,5 @@
 + Thinking: [名企BI04_Lesson01_Thingking.md](./名企BI04_Lesson01_Thingking.md)
 + Action1: [名企BI04Lesson01_Action1_10开平方.ipynb](./名企BI04Lesson01_Action1_10开平方.ipynb)
 + Action2: [名企BI04Lesson01_Action2_汽车投诉信息采集.ipynb](./名企BI04Lesson01_Action2_汽车投诉信息采集.ipynb)
-
-
-
-
++ 
 
