@@ -1,5 +1,15 @@
 # 名企BI04期 + 核心课 + 谭美云
 
+---
+
+## 8. Week08:时间序列分析
+
++ push date: 2020/10/20
++ Thinking:[HXBI04_Lesson08Thinking.md](./HXBI04_Lesson08Thinking.md)
++ Action1: [HXBI04_Lesson08Action1_ARMA_ARIMA_stockForcast.ipynb](./HXBI04_Lesson08Action1_ARMA_ARIMA_stockForcast.ipynb)
+
+---
+
 ## 7. Week07: 神经网络基础与移动推荐系统
 
 + push date: 2020/10/07
