@@ -1,6 +1,14 @@
 # 名企BI04期 + 名企课 + 谭美云
 
 ---
+# 8. 时间序列实战与分布式推荐系统
+
++ push date: 2020/10/17
++ Thinking: [MQBI04_Lesson08Thinking.md](./MQBI04_Lesson08Thinking.md)
++ Action1: [MQBI04_Lesson08Action1_dailyPassengerFlowForcast.ipynb](./MQBI04_Lesson08Action1_dailyPassengerFlowForcast.ipynb)
+
+
+---
 
 # 7. 深度卷积网络与实战
 
