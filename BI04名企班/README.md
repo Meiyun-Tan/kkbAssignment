@@ -5,7 +5,7 @@
 
 + push date: 2020/10/17
 + Thinking: [MQBI04_Lesson08Thinking.md](./MQBI04_Lesson08Thinking.md)
-+ Action1: [MQBI04_Lesson08Action1_dailyPassengerFlowForcast.ipynb](./MQBI04_Lesson08Action1_dailyPassengerFlowForcast.ipynb)
++ Action1: [MQBI04_Lesson08Action1_dailyPassengerFlowForcastV2.ipynb](./MQBI04_Lesson08Action1_dailyPassengerFlowForcastV2.ipynb)
 
 
 ---
