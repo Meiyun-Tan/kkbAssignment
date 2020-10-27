@@ -8,6 +8,7 @@
 + push date: 2020/10/27
 + Thinking:[HEXBI04_Lesson09Thinking.md](./HHEXBI04_Lesson09Thinking.md)
 + Action1: [HXBI04_Lesson09_Action1_cnewsClassifier.ipynb](./HXBI04_Lesson09_Action1_cnewsClassifier.ipynb)
+  + 添加了验证集的版本[HXBI04_Lesson09_Action1_cnewsClassifier_addValidation.ipynb](./HXBI04_Lesson09_Action1_cnewsClassifier_addValidation.ipynb)
 
 ---
 
