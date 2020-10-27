@@ -2,6 +2,15 @@
 
 ---
 
+
+## 9. Week09:循环神经网络与预测
+
++ push date: 2020/10/27
++ Thinking:[HEXBI04_Lesson09Thinking.md](./HHEXBI04_Lesson09Thinking.md)
++ Action1: [HXBI04_Lesson09_Action1_cnewsClassifier.ipynb](./HXBI04_Lesson09_Action1_cnewsClassifier.ipynb)
+
+---
+
 ## 8. Week08:时间序列分析
 
 + push date: 2020/10/20
