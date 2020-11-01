@@ -1,6 +1,18 @@
 # 名企BI04期 + 名企课 + 谭美云
 
 ---
+
+# 9. 模型融合与智能预测
+
++ push date: 2020/11/1
++ Thinking: 无
++ Action1: 二手车价格预测[MQBI04_Lesson09Action1_SecondHandCarsPredict_score_474.ipynb](./MQBI04_Lesson09Action1_SecondHandCarsPredict_score_474.ipynb)
+  + 预测结果:[sample_submit_SHCPredict474.csv](./sample_submit_SHCPredict474.csv)
++ Action2: 智能供应链分析EDA
+[MQBI04_Lesson09Action2_SupplyChainDatasetEDA.ipynb](./MQBI04_Lesson09Action2_SupplyChainDatasetEDA.ipynb)
+
+---
+
 # 8. 时间序列实战与分布式推荐系统
 
 + push date: 2020/10/17
