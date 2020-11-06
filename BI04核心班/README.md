@@ -1,4 +1,11 @@
 # 名企BI04期 + 核心课 + 谭美云
+---
+
+## 10. PageRank、图论与推荐系统
++ push date:2020/11/06
++ Thinking:[HXBI04_Lesson10_Thinking.md](./HXBI04_Lesson10_Thinking.md)
++ Action1:[HXBI04_Lesson10_Action1_SimulatePageRank.ipynb](./HXBI04_Lesson10_Action1_SimulatePageRank.ipynb)
++ Action2:[HXBI04_Lesson10_Action2_NewsClassifierByTextRank.ipynb](./HXBI04_Lesson10_Action2_NewsClassifierByTextRank.ipynb)
 
 ---
 
