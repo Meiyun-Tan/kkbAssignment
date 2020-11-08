@@ -2,6 +2,20 @@
 
 ---
 
+## 10. 智能供应链
+
++ push date: 2020/11/8
++ Thinking: 无
++ Action1: 智能供应链分析
+  + 对于欺诈订单进行预测，即Order Status='SUSPECTED_FRAUD'[MQBI04_Lesson10_Action01_SUSPECTED_FRAUD_Predict.ipynb](./MQBI04_Lesson10_Action01_SUSPECTED_FRAUD_Predict.ipynb)
+	+ 对于迟交货订单进行预测，即Delivery Status= 'Late delivery'[MQBI04_Lesson10_Action01_DelayShippingPredict.ipynb](./MQBI04_Lesson10_Action01_DelayShippingPredict.ipynb)
+	+ 对于销售额进行预测，即Sales字段[MQBI04_Lesson10_Action01_SalesPredict.ipynb](./MQBI04_Lesson10_Action01_SalesPredict.ipynb)
+	+ 对于订货数量进行预测，即Order Item Quantity[MQBI04_Lesson10_Action01_OrderItemQuantityPredict.ipynb](./MQBI04_Lesson10_Action01_OrderItemQuantityPredict.ipynb)
+	
+	
+
+---
+
 # 9. 模型融合与智能预测
 
 + push date: 2020/11/1
