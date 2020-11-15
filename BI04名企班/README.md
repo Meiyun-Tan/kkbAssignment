@@ -1,5 +1,21 @@
 # 名企BI04期 + 名企课 + 谭美云
 
+
+
+
+---
+# 11.  智能供应链(二)
+
++ push date: 2020/11/13
++ Thinking: [MQBI04_Lesson11_Thinking.md](./MQBI04_Lesson11_Thinking.md)
++ Action1: 智能供应链分析
+  + 对于欺诈订单进行预测，即Order Status='SUSPECTED_FRAUD'[MQBI04_Lesson11_Action01_FraudPredict_DeepFM.ipynb](./MQBI04_Lesson11_Action01_FraudPredict_DeepFM.ipynb)
+	+ 对于迟交货订单进行预测，即Delivery Status= 'Late delivery'[MQBI04_Lesson11_Action01_LateDelivery_DeepFM.ipynb](./MQBI04_Lesson11_Action01_LateDelivery_DeepFM.ipynb)
+	+ 对于销售额进行预测，即Sales字段[MQBI04_Lesson11_Action01_SalesPredict_DeepFM.ipynb](./MQBI04_Lesson11_Action01_SalesPredict_DeepFM.ipynb)
+	+ 对于订货数量进行预测，即Order Item Quantity[MQBI04_Lesson11_Action01_OrderItemQuantity_DeepFM.ipynb](./MQBI04_Lesson11_Action01_OrderItemQuantity_DeepFM.ipynb)
++ Action2: 种植不同农产品的总收益最大化问题：
+[MQBI04_Lesson11_Action2_MaximizingFarmersIncomeBy_Puly.ipynb](./MQBI04_Lesson11_Action2_MaximizingFarmersIncomeBy_Puly.ipynb)
+
 ---
 
 ## 10. 智能供应链
@@ -11,8 +27,7 @@
 	+ 对于迟交货订单进行预测，即Delivery Status= 'Late delivery'[MQBI04_Lesson10_Action01_DelayShippingPredict.ipynb](./MQBI04_Lesson10_Action01_DelayShippingPredict.ipynb)
 	+ 对于销售额进行预测，即Sales字段[MQBI04_Lesson10_Action01_SalesPredict.ipynb](./MQBI04_Lesson10_Action01_SalesPredict.ipynb)
 	+ 对于订货数量进行预测，即Order Item Quantity[MQBI04_Lesson10_Action01_OrderItemQuantityPredict.ipynb](./MQBI04_Lesson10_Action01_OrderItemQuantityPredict.ipynb)
-	
-	
+
 
 ---
 
