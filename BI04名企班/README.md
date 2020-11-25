@@ -1,7 +1,13 @@
 # 名企BI04期 + 名企课 + 谭美云
 
 
+---
+# 12. 常见规划问题(课件标题)
 
++ push date: 2020/11/25
++ Thinking: [MQBI04_Lesson12Thinking.md](./MQBI04_Lesson12Thinking.md)
++ Action1:Santa的接待安排
+	+ [MQBI04_Lesoon12_Action1_Santa2019ILP-72964.ipynb](./MQBI04_Lesoon12_Action1_Santa2019ILP-72964.ipynb)
 
 ---
 # 11.  智能供应链(二)
