@@ -6,7 +6,7 @@
 + push date: 2020/12/02
 + Thinking: [MQBI04_Lesson13_Thinking.md](./MQBI04_Lesson13_Thinking.md)
 + Action1:Santa的接待安排
-  + [MQBI04_Lesoon13_Action1_Santa2019ILP-72964.ipynb](
+  + [MQBI04_Lesoon13_Action1_Santa2019ILP-72964.ipynb](MQBI04_Lesoon13_Action1_Santa2019ILP-72964.ipynb)
 + Action2:VRP多辆车路径规划问题[MQBI04_Lesson13_Action2_VRP.ipynb](./MQBI04_Lesson13_Action2_VRP.ipynb)
 
 ---
