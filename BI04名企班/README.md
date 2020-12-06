@@ -1,6 +1,15 @@
 # 名企BI04期 + 名企课 + 谭美云
 
 ---
+# 14. Learning to Rank与Airbnb个性化推荐
+
+- Action:资金流入流出预测
+	- 使用周期因子预测及模型融合 [MQBI04_Lesson14_Action_ PeriodicityFactor_CapitalInflowAndOutflowForecast_130_6812.ipynb](./MQBI04_Lesson14_Action_ PeriodicityFactor_CapitalInflowAndOutflowForecast_130_6812.ipynb)
+	- 使用fbprophet预测[MQBI04_Lesson14_Action_fbprophet_CapitalInflowAndOutflowForecast_115_6103.ipynb](./MQBI04_Lesson14_Action_fbprophet_CapitalInflowAndOutflowForecast_115_6103.ipynb)
+	- 使用ARIMA预测
+	- [MQBI04_Lesson14_Action_ARIMA_CapitalInflowAndOutflowForecast_100_3210.ipynb](./MQBI04_Lesson14_Action_ARIMA_CapitalInflowAndOutflowForecast_100_3210.ipynb)
+	- 预测结果输出的CSV文件在文件夹[L14ModelOutputs](./L14ModelOutputs/)
+
 # 13. 常见规划问题(2)
 
 + push date: 2020/12/02
