@@ -4,7 +4,7 @@
 # 14. Learning to Rank与Airbnb个性化推荐
 
 - Action:资金流入流出预测
-	- 使用周期因子预测及模型融合 [MQBI04_Lesson14_Action_ PeriodicityFactor_CapitalInflowAndOutflowForecast_130_6812.ipynb](./MQBI04_Lesson14_Action_ PeriodicityFactor_CapitalInflowAndOutflowForecast_130_6812.ipynb)
+	- 使用周期因子预测及模型融合 [MQBI04_Lesson14_Action_PeriodicityFactor_CapitalInflowAndOutflowForecast_130_6812.ipynb](./MQBI04_Lesson14_Action_PeriodicityFactor_CapitalInflowAndOutflowForecast_130_6812.ipynb)
 	- 使用fbprophet预测[MQBI04_Lesson14_Action_fbprophet_CapitalInflowAndOutflowForecast_115_6103.ipynb](./MQBI04_Lesson14_Action_fbprophet_CapitalInflowAndOutflowForecast_115_6103.ipynb)
 	- 使用ARIMA预测
 	- [MQBI04_Lesson14_Action_ARIMA_CapitalInflowAndOutflowForecast_100_3210.ipynb](./MQBI04_Lesson14_Action_ARIMA_CapitalInflowAndOutflowForecast_100_3210.ipynb)
