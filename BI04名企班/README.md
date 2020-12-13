@@ -1,14 +1,27 @@
 # 名企BI04期 + 名企课 + 谭美云
 
 ---
+# 15. 逻辑回归与采购决策
++ push date: 2020/12/08
+
++ Thinking: [MQBI04_Lesson15_Thinking.md](./MQBI04_Lesson15_Thinking.md)
+
++ Action:基于评分卡的风控模型开发[MQBI04_Lesson15_Acion1_GiveMeSomeCredit_CustomBins.ipynb](./MQBI04_Lesson15_Acion1_GiveMeSomeCredit_CustomBins.ipynb)
+
+
+
+---
 # 14. Learning to Rank与Airbnb个性化推荐
 
++ push date: 2020/12/06
 - Action:资金流入流出预测
 	- 使用周期因子预测及模型融合 [MQBI04_Lesson14_Action_PeriodicityFactor_CapitalInflowAndOutflowForecast_130_6812.ipynb](./MQBI04_Lesson14_Action_PeriodicityFactor_CapitalInflowAndOutflowForecast_130_6812.ipynb)
 	- 使用fbprophet预测[MQBI04_Lesson14_Action_fbprophet_CapitalInflowAndOutflowForecast_115_6103.ipynb](./MQBI04_Lesson14_Action_fbprophet_CapitalInflowAndOutflowForecast_115_6103.ipynb)
 	- 使用ARIMA预测
 	- [MQBI04_Lesson14_Action_ARIMA_CapitalInflowAndOutflowForecast_100_3210.ipynb](./MQBI04_Lesson14_Action_ARIMA_CapitalInflowAndOutflowForecast_100_3210.ipynb)
 	- 预测结果输出的CSV文件在文件夹[L14ModelOutputs](./L14ModelOutputs/)
+
+---
 
 # 13. 常见规划问题(2)
 
@@ -116,25 +129,45 @@
 
 + Thinking: [MQ_BI04_Lesson03_Thingking.md](./MQ_BI04_Lesson03_Thingking.md)
 
-+ Action1: [MQ_BI04_lesson03_Action01_delicious_recommend.ipynb](./MQ_BI04_lesson03_Action01_delicious_recommend.ipynb)
++ Action1:针对Delicious数据集，对SimpleTagBased算法进行改进（使用NormTagBased、TagBased-TFIDF算法）
 
-+ Action2: [MQ_BI04_lesson03_Action02_Titanic.ipynb](./MQ_BI04_lesson03_Action02_Titanic.ipynb)
+   [MQ_BI04_lesson03_Action01_delicious_recommend.ipynb](./MQ_BI04_lesson03_Action01_delicious_recommend.ipynb)
+
++ Action2:对Titanic数据进行清洗，建模并对乘客生存进行预测。使用之前介绍过的10种模型中的至少2种（+包括TPOT）
+
+   [MQ_BI04_lesson03_Action02_Titanic.ipynb](./MQ_BI04_lesson03_Action02_Titanic.ipynb)
 
 ---
 
 ## 2. week02: 数据可视化及实战
 
 + push date: 2020/8/29
+
 + Thinking: [名企BI04_Lesson02_Thingking.txt](./名企BI04_Lesson02_Thingking.txt)
-+ Action1: [名企BI04lesson02_Action1_购物篮可视化.ipynb](./名企BI04lesson02_Action1_购物篮可视化.ipynb)
+
++ Action1:购物篮词云分析
+  数据集：MarketBasket
+  下载地址：https://www.kaggle.com/dragonheir/basket-optimisation
+  对数据集进行词云可视化展示，可视化探索（Top10的商品有哪些）
+
+   [名企BI04lesson02_Action1_购物篮可视化.ipynb](./名企BI04lesson02_Action1_购物篮可视化.ipynb)
 
 ---
 
 ## 1. week01: 数据采集与实战
 
 + push date: 2020/8/22
+
 + Thinking: [名企BI04_Lesson01_Thingking.md](./名企BI04_Lesson01_Thingking.md)
-+ Action1: [名企BI04Lesson01_Action1_10开平方.ipynb](./名企BI04Lesson01_Action1_10开平方.ipynb)
-+ Action2: [名企BI04Lesson01_Action2_汽车投诉信息采集.ipynb](./名企BI04Lesson01_Action2_汽车投诉信息采集.ipynb)
-+ 
+
++ Action1:不用任何数学库，如何求出sqrt(10)，并且精确到小数点后10位
+
+   [名企BI04Lesson01_Action1_10开平方.ipynb](./名企BI04Lesson01_Action1_10开平方.ipynb)
+
++ Action2: 汽车投诉信息采集：
+  数据源：http://www.12365auto.com/zlts/0-0-0-0-0-0_0-0-1.shtml
+  投诉编号，投诉品牌，投诉车系，投诉车型，问题简述，典型问题，投诉时间，投诉状态
+  可以采用Python爬虫，或者第三方可视化工具
+
+  [名企BI04Lesson01_Action2_汽车投诉信息采集.ipynb](./名企BI04Lesson01_Action2_汽车投诉信息采集.ipynb)
 
