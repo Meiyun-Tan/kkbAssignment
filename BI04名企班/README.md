@@ -2,7 +2,7 @@
 
 ---
 # 15. 逻辑回归与采购决策
-+ push date: 2020/12/08
++ push date: 2020/12/13
 
 + Thinking: [MQBI04_Lesson15_Thinking.md](./MQBI04_Lesson15_Thinking.md)
 
