@@ -1,7 +1,15 @@
 # 名企BI04期 + 名企课 + 谭美云
 
 ---
+# 16. Prediction is all you Need
++ push date: 2020/12/20
++ Action1: 基于评分卡的风控模型开发[MQBI04_Lesson16_Acion1_GiveMeSomeCredit_CustomBins.ipynb](./MQBI04_Lesson16_Acion1_GiveMeSomeCredit_CustomBins.ipynb)
++ Action2: 百度AI比赛：用户购买预测
+[MQBI04_Action2_lgb_0_4956.ipynb](MQBI04_Action2_lgb_0_4956.ipynb)
+
+
 # 15. 逻辑回归与采购决策
+
 + push date: 2020/12/13
 
 + Thinking: [MQBI04_Lesson15_Thinking.md](./MQBI04_Lesson15_Thinking.md)
