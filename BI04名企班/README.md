@@ -1,6 +1,17 @@
 # 名企BI04期 + 名企课 + 谭美云
+---
 
+# 18. 时间序列实战
++ push date: 2021/1/24
++ Thinking:无
++ Action1: JetRail高铁的乘客数量预测 [MQBI04_Lesson18_Action1_prophet_jetrail_predict.ipynb](./MQBI04_Lesson18_Action1_prophet_jetrail_predict.ipynb)
++ Action2: 资金流入流出预测 [MQBI04_Lesson18_Action_fbprophet_CapitalInflowAndOutflowForecast_115_6103.ipynb](./MQBI04_Lesson18_Action_fbprophet_CapitalInflowAndOutflowForecast_115_6103.ipynb)
+[tc_comp_predict_table_fb_115_6103.csv](./tc_comp_predict_table_fb_115_6103.csv)
+
+
+---
 # 17. 时间序列分析
+
 + push date: 2021/1/3
 + Thinking: [MQBI04_Lesson17Thinking.md](./MQBI04_Lesson17Thinking.md)
 + Action1: [MQBI04_Action1_Lesson17_LSTM_PM2.5_StandardScaler.ipynb](./MQBI04_Action1_Lesson17_LSTM_PM2.5_StandardScaler.ipynb)
@@ -11,7 +22,7 @@
 + push date: 2020/12/20
 + Action1: 基于评分卡的风控模型开发[MQBI04_Lesson16_Acion1_GiveMeSomeCredit_CustomBins.ipynb](./MQBI04_Lesson16_Acion1_GiveMeSomeCredit_CustomBins.ipynb)
 + Action2: 百度AI比赛：用户购买预测
-[MQBI04_Action2_lgb_0_4956.ipynb](MQBI04_Action2_lgb_0_4956.ipynb)
+[MQBI04_Action2_lgb_0_4956.ipynb](./MQBI04_Action2_lgb_0_4956.ipynb)
 
 
 
