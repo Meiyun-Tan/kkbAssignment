@@ -1,7 +1,25 @@
 # 名企BI04期 + 名企课 + 谭美云
 ---
 
+# 19. 资金流入流出预测
+---
++ push date: 2021/1/31
++ Thinking: 无
++ Action1: 资金流入流出预测
+  + 主要工具：Pandas、chinese_calendar
+  + 主要技术：基于时序的周期因子预测法
++ [MQBI04_Lesson19_Action1_PeriodFactor_146.7478.ipynb](./MQBI04_Lesson19_Action1_PeriodFactor_146.7478.ipynb)
+
++ Action2: 新闻内容自动提取及呈现
+  + 主要工具：Requests、bs4、Jieba、Wordcloud
+  + 主要技术：爬虫、jieba分词、词云可视化
+  + [MQBI04_Lesson19_Action2_NewsAutomaticallyExtractedAndPresented.ipynb](./MQBI04_Lesson19_Action2_NewsAutomaticallyExtractedAndPresented.ipynb)
+
+---
+
+
 # 18. 时间序列实战
+
 + push date: 2021/1/24
 + Thinking: 无
 + Action1: JetRail高铁的乘客数量预测 
