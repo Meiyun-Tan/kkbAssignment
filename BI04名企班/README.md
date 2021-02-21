@@ -1,7 +1,33 @@
 # 名企BI04期 + 名企课 + 谭美云
+
+---
+
+
+
+# 20. 个性化推荐与金融数据分析
+
++ push date: 2021/2/21
+
++ Thinking: [MQBI04_Lesson20_Thinking.md](./MQBI04_Lesson20_Thinking.md)
+
++ Action1: 信用卡违约率检测
+
+  + 主要工具：Pandas、pandas_profiling、sklearn
+  + 主要技术：Pipeline、GridSearchCV、机器学习模型（SVC等）
+
+  [MQBI04_Lesson20_Action1_GridSearchCV_CreditCardClients.ipynb](./MQBI04_Lesson20_Action1_GridSearchCV_CreditCardClients.ipynb)
+
++ 信用卡欺诈分析：
+
+  + 主要工具：Pandas、pandas_profiling、sklearn
+  + 主要技术：Pipeline、GridSearchCV、LogisticRegression、可视化
+
+  [MQBI04_Lesson20_Action2_GridSearchCV_CreditCardFraud.ipynb](MQBI04_Lesson20_Action2_GridSearchCV_CreditCardFraud.ipynb)
+
 ---
 
 # 19. 资金流入流出预测
+
 ---
 + push date: 2021/1/31
 + Thinking: 无
@@ -11,8 +37,8 @@
 + [MQBI04_Lesson19_Action1_PeriodFactor_146.7478.ipynb](./MQBI04_Lesson19_Action1_PeriodFactor_146.7478.ipynb)
 
 + Action2: 新闻内容自动提取及呈现
-  + 主要工具：Requests、bs4、Jieba、Wordcloud
-  + 主要技术：爬虫、jieba分词、词云可视化
+  + 主要工具：Requests、bs4、Jieba、Wordcloud、textrank4zh
+  + 主要技术：爬虫、jieba分词、词云可视化、文本关键字提取（TextRank4Keyword）, 文本摘要提取（TextRank4Sentence）
   + [MQBI04_Lesson19_Action2_NewsAutomaticallyExtractedAndPresented.ipynb](./MQBI04_Lesson19_Action2_NewsAutomaticallyExtractedAndPresented.ipynb)
 
 ---
