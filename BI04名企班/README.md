@@ -4,6 +4,27 @@
 
 
 
+# 21. 淘宝定向广告演化与天猫用户复购预测
+
++ push date: 2021/2/28
+
++ Thinking: [MQBI04_Lesson21_Thinking.md](./MQBI04_Lesson21_Thinking.md)
+
++ Action1: [天池比赛——天猫复购预测之挑战Baseline](https://tianchi.aliyun.com/competition/entrance/231576/introduction)
+
+  + 主要工具：Pandas、Sklearn、LightGBM、Pickle
+  + 主要技术：LGB建模、特征工程、降内存脚本
+  + [MQBI04_Lesson21_Action1_0_6757276.ipynb](./MQBI04_Lesson21_Action1_0_6757276.ipynb)
+  + 相关附件：
+    + 预测结果：[prediction_lgb_0.6757276.csv](./L21Attachment/prediction_lgb_0.6757276.csv)
+    + 训练好的模型：[lgb_tianchi_model0.6757276.pickle](./L21Attachment/lgb_tianchi_model0.6757276.pickle)
+    + 处理好的训练集和测试集（以origin字段区分）：[precessed_datasets0.6757276.csv](./L21Attachment/precessed_datasets0.6757276.csv)
+    + 拆分小样本数据集的code:[MQBI04_Lesson21_Action1_SplitSampleDataSet.ipynb](./L21Attachment/MQBI04_Lesson21_Action1_SplitSampleDataSet.ipynb)
+
+  
+
+---
+
 # 20. 个性化推荐与金融数据分析
 
 + push date: 2021/2/21
