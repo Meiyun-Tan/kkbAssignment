@@ -4,6 +4,18 @@
 
 
 
+# 22.强化学习与推荐系统
+
++ push date: 2021/03/07
+
++ Thinking: [MQBI04_Lesson22_Thinking.md](./MQBI04_Lesson22_Thinking.md)
+
++ Action1: [MQBI04_Lesson22_Action1.md](./MQBI04_Lesson22_Action1.md)
+
+---
+
+
+
 # 21. 淘宝定向广告演化与天猫用户复购预测
 
 + push date: 2021/2/28
