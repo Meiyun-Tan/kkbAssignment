@@ -4,6 +4,21 @@
 
 
 
+# 23. AlphaGo Zero实战
+
+---
+
++ push date: 2021/03/14
++ Thinking: [MQBI04_Lesson23_Thinking.md](./MQBI04_Lesson23_Thinking.md)
++ Action1: [MQBI04_Lesson23_Action1_human_play.ipynb](./MQBI04_Lesson23_Action1_human_play.ipynb)
+  + [MQBI04_Lesson23_Action1_train.ipynb](./MQBI04_Lesson23_Action1_train.ipynb)
+  + code和模型[Lesson23Model](./Lesson23Model/)
++ 
+
+
+
+
+
 # 22.强化学习与推荐系统
 
 + push date: 2021/03/07
