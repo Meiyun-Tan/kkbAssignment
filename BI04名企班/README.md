@@ -2,6 +2,16 @@
 
 ---
 
+# 24.数据分析思维
+
+---
+
++ push date: 2021/03/28
++ Thinking: [MQBI04_Lesson24_Thinking.md](./MQBI04_Lesson24_Thinking.md)
++ Action1: 智能供应链分析(EDA & RFM用户分层)
+
+  [MQBI04_Lesson24Action1_SupplyChainDatasetEDA_RFM.ipynb](./MQBI04_Lesson24Action1_SupplyChainDatasetEDA_RFM.ipynb)
+
 
 
 # 23. AlphaGo Zero实战
@@ -13,11 +23,8 @@
 + Action1: [MQBI04_Lesson23_Action1_human_play.ipynb](./MQBI04_Lesson23_Action1_human_play.ipynb)
   + [MQBI04_Lesson23_Action1_train.ipynb](./MQBI04_Lesson23_Action1_train.ipynb)
   + code和模型[Lesson23Model](./Lesson23Model/)
-+ 
-
-
-
-
+  
+  
 
 # 22.强化学习与推荐系统
 
@@ -117,6 +124,7 @@
 
 ---
 # 16. Prediction is all you Need
+
 + push date: 2020/12/20
 + Action1: 基于评分卡的风控模型开发
   + 主要工具：Pandas、Matplotlib、sklearn、Missingno
